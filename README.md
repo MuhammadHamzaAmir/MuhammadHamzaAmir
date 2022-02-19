@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hey everyone 👋
 
 I am a Software Engineer and a Software QA Engineer. I develop android applications, automate boring stuff and do testing of websites.  
-<h3 align="center">A passionate android application developer and a QA Engineer</h3>
+<h3 align="center">A passionate Android Application Developer and a QA Engineer</h3>
 
 
 
