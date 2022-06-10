@@ -26,7 +26,7 @@ I am a Software Engineer and a Software QA Engineer. I develop android applicati
 
 - 🔭 I’m currently developing an Android App in **Android Native.**
 
-- 🌱 I’m currently learning more about **Android Native and React **
+- 🌱 I’m currently learning more about **Android Native and React.**
 
 - 📝 I regularly write articles on [Buy me a Coffee](https://www.buymeacoffee.com/mhamzaamir/posts)
 
